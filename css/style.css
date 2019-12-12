@@ -1,0 +1,42 @@
+html
+{
+	scroll-behavior: smooth;
+}
+.sp a
+{
+	font-size: 30px;
+	font-family: arial;
+	color: #fff;
+}
+
+.sp:hover a
+{   
+	font-size: 25px;
+	font-family: arial;
+	color: orange;
+    border-radius: 30px;
+   }
+
+
+.nab a
+{
+	color: orange;
+	font-size: 20px;
+	font-family: arial;
+}
+
+.mapset
+{
+	background-image: url( ../image/4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+
+
+
+.slideset img
+{
+	height: 400px;
+{
